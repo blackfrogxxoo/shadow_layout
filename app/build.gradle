@@ -7,7 +7,7 @@ android {
     buildToolsVersion "29.0.2"
 
     defaultConfig {
-        applicationId "me.wxc.shadowconstraintlayoutdemo"
+        applicationId "me.wxc.shadowlayoutdemo"
         minSdkVersion 17
         targetSdkVersion 30
         versionCode 1
